@@ -1,4 +1,5 @@
 # This is a guess the number game.
+#Version 1.0
 import random
 name = input('What is you name: ')
 print('Hi ' + str(name) + ', I am thinking of a number between 1 and 20. ', end = "")
